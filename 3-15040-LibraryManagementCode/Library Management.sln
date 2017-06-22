@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Management", "Library Management.csproj", "{31DC4464-22A8-4F76-8E10-5DA2C4D2EDB0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{31DC4464-22A8-4F76-8E10-5DA2C4D2EDB0}.Debug.ActiveCfg = Debug|.NET
+		{31DC4464-22A8-4F76-8E10-5DA2C4D2EDB0}.Debug.Build.0 = Debug|.NET
+		{31DC4464-22A8-4F76-8E10-5DA2C4D2EDB0}.Release.ActiveCfg = Release|.NET
+		{31DC4464-22A8-4F76-8E10-5DA2C4D2EDB0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
